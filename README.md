@@ -21,17 +21,17 @@
 - 在大团队开发中，可以分别和不同工作小组的人相互协作
 
 
-### `Git` -- 基本命令
+## `Git` -- 基本命令
 序号|命令|命令作用
 --|:--:|--:
 1|`git init`|新建目录
 2|`git clone`|下载一个项目和它整个的版本
-3|`git pull`|
-4|`git add`|三弟
-5|`git commit`|三弟
-6|`git push`|三弟
-7|`git diff`|三弟
-8|`git checkout`|三弟
-9|`git fetch`|三弟
-10|`git merge`|三弟
+3|`git pull`|取回远程仓库的变化，并与本地分支合并
+4|`git add`|添加当前目录的所有文件到暂存区
+5|`git commit`|提交暂存区到仓库区
+6|`git push`|推送代码到远程区
+7|`git diff`|显示暂存区和工作区的差异
+8|`git checkout`|切换到指定分支，并更新工作区
+9|`git fetch`|下载远程仓库的所有变动
+10|`git merge`|合并指定分支到当前分支
 
