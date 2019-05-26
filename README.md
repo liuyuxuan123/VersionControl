@@ -37,3 +37,6 @@
 
 ### 工作区，暂存区，本地仓库，远程仓库的区别
 ![](VersionControl/images/difference.png)
+`pull` = `fetch` + `merge`
+`commit -a` = `add` + `commit`
+
