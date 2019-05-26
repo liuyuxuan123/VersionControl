@@ -24,14 +24,14 @@
 ### `Git` -- 基本命令
 序号|命令|命令作用
 --|:--:|--:
-1|`git init`|大哥
-2|`git clone`|二哥
-3|git pull|三弟
-4|git add|三弟
-5|git commit|三弟
-6|git push|三弟
-7|git diff|三弟
-8|git checkout|三弟
-9|git fetch|三弟
-10|git merge|三弟
+1|`git init`|新建目录
+2|`git clone`|下载一个项目和它整个的版本
+3|`git pull`|
+4|`git add`|三弟
+5|`git commit`|三弟
+6|`git push`|三弟
+7|`git diff`|三弟
+8|`git checkout`|三弟
+9|`git fetch`|三弟
+10|`git merge`|三弟
 
